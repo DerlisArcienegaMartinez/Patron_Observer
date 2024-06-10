@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Desktop\dkam\Patron_Observer\Intermediate\Build\Win64\UE4Editor\Development\Patron_Observer\Definitions.Patron_Observer.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Observer\Source\Patron_Observer/NaveEnemigaCaza.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Observer\Source\Patron_Observer\NaveEnemiga.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Observer\Intermediate\Build\Win64\UE4Editor\Inc\Patron_Observer\NaveEnemiga.generated.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Observer\Source\Patron_Observer\Observador.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Observer\Intermediate\Build\Win64\UE4Editor\Inc\Patron_Observer\Observador.generated.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Observer\Intermediate\Build\Win64\UE4Editor\Inc\Patron_Observer\NaveEnemigaCaza.generated.h

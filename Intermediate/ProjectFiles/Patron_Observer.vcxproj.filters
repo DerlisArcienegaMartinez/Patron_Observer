@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Patron_Observer.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5FEDB300-FBFA-488A-A997-FAC03E4E9351}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Patron_Observer.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Patron_ObserverEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{6B36AD95-CD55-4ABE-A9DC-A870A5E2CD56}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Patron_Observer">
+      <UniqueIdentifier>{D1E74314-A5FE-431E-877E-C6F279C14A48}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Patron_Observer\IObserver.cpp">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Observer\IObserver.h">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Observer\NaveEnemiga.cpp">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Observer\NaveEnemiga.h">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Observer\NaveEnemigaCaza.cpp">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Observer\NaveEnemigaCaza.h">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Observer\NaveEnemigaTransporte.cpp">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Observer\NaveEnemigaTransporte.h">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Observer\Observador.cpp">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Observer\Observador.h">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Patron_Observer\Patron_Observer.Build.cs">
+      <Filter>Source\Patron_Observer</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Patron_Observer\Patron_Observer.cpp">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Observer\Patron_Observer.h">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Observer\Patron_ObserverGameMode.cpp">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Observer\Patron_ObserverGameMode.h">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Observer\Patron_ObserverPawn.cpp">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Observer\Patron_ObserverPawn.h">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Observer\Patron_ObserverProjectile.cpp">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Observer\Patron_ObserverProjectile.h">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Observer\Radar.cpp">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Observer\Radar.h">
+      <Filter>Source\Patron_Observer</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

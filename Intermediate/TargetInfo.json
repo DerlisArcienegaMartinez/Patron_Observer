@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Patron_Observer",
+			"Path": "C:\\Users\\LENOVO\\Desktop\\dkam\\Patron_Observer\\Source\\Patron_Observer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Patron_ObserverEditor",
+			"Path": "C:\\Users\\LENOVO\\Desktop\\dkam\\Patron_Observer\\Source\\Patron_ObserverEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

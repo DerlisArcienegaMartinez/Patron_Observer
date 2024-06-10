@@ -1,0 +1,3 @@
+C:\Users\LENOVO\Desktop\dkam\Patron_Observer\Intermediate\Build\Win64\UE4Editor\Development\Patron_Observer\Definitions.Patron_Observer.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Observer\Source\Patron_Observer\Observador.h
+C:\Users\LENOVO\Desktop\dkam\Patron_Observer\Intermediate\Build\Win64\UE4Editor\Inc\Patron_Observer\Observador.generated.h
